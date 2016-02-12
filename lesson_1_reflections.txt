@@ -1,0 +1,4 @@
+pomohlo mi to velmi a dufam ze mi to pomoze na mojej ceste za snami
+takz, ze budem schopnu porovnavat zmeny ktore som vykonal a najst potencialnu chybu
+lebo ulozim moj kod ked to dava logicku hodnotu, kod ulozim po nejakej logickej zmene, nie napr. v polovici nedokonceneho riadku
+čo ja viem moja zlatá ja si tu teraz skúšam moje písanie pomocou 10 prstov
